@@ -4,4 +4,5 @@ I'm a software developer with 10+ years experience in the Media and Entertainmen
 
 - 🔭 I’m currently working on LineDream (my generative art library for Python)
 - 👯 I’m looking to collaborate on anything interesting!
+- 👨‍💻 Im currently learnig C++
 - ⚡ Fun fact: I love skiing, mountain biking, and rafting!
